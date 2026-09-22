@@ -2,10 +2,6 @@
 
 A collection of independent machine learning projects covering classification, fraud detection, computer vision, and generative modeling — built to practice and demonstrate core ML workflows: data preprocessing, feature engineering, model building, and evaluation.
 
-![Python](https://img.shields.io/badge/Python-Core-blue?logo=python&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Learning%20Portfolio-yellow)
-
 ---
 
 ##  Projects in This Repository
